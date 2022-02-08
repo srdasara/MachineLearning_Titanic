@@ -1,9 +1,10 @@
 # Titanic - Machine Learning from Disaster
-Here is my undertaking of the legendary Titanic Machine Learning Competition hosted on [Kaggle](https://www.kaggle.com/c/titanic/overview)!
+Here is my undertaking of the legendary Titanic Machine Learning Competition hosted on [Kaggle](https://www.kaggle.com/c/titanic/overview)! The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. 
 
-The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. 
+I tested different models, including a **Linear Regression**, **Logistic Regression**, **Decision Tree**, **Random Forest**, and **Support Vector Machines (SVM)**. My score is in the top 2% of the leaderboard on Kaggle.
 
-## The Challenge
+
+### The Challenge
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
